@@ -1,0 +1,16 @@
+Decorator Design Pattern:
+
+- It is a structural design pattern.
+
+- Used to modify the behaviour of an object at runtime.
+
+- Other instances of the same class will not be affected by this modification, only the individual object gets the modified behaviour.
+
+- Inheritance or composition are used to extend the behaviour of an object at compile time and applies to all instances of the class.
+
+- The decorator class acts as a wrapper to the existing class it is extended to.  It provides additional functionality to the original class.
+
+- It is easy to maintin and extend when the number of choices are increased.
+
+
+
